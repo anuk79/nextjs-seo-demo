@@ -11,7 +11,7 @@ export default function Home() {
         <meta name="description" content="Learn SEO - meta, sitemaps, open graph!" />
         <link rel="icon" href="/favicon.ico" />
         <meta name="og:title" content="Learn Search Engine Optimisation" />
-        <meta name="og:description" content="Learn SEO - meta, sitemaps, open graph. Make your websites rank higher in search results@" />
+        <meta name="og:description" content="Learn SEO - meta, sitemaps, open graph. Make your websites rank higher in search results!" />
         <meta name="og:type" content="website" />
         <meta name="og:image" content="https://learn-seo-next.vercel.app/learn-seo.png" />
         <meta name="og:url" content="https://learn-seo-next.vercel.app/" />
