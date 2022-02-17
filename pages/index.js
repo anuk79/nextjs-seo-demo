@@ -10,7 +10,7 @@ export default function Home() {
         <title>Learn SEO</title>
         <meta name="description" content="Learn SEO - meta, sitemaps, open graph. Make your websites rank higher in search results!" />
         <link rel="icon" href="/favicon.ico" />
-        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@miracle_404" />
         <meta name="og:title" content="Learn Search Engine Optimisation" />
         <meta name="og:description" content="Learn SEO - meta, sitemaps, open graph. Make your websites rank higher in search results!" />
