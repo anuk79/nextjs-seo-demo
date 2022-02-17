@@ -8,7 +8,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Learn SEO</title>
-        <meta name="description" content="Learn SEO - meta, sitemaps, open graph!" />
+        <meta name="description" content="Learn SEO - meta, sitemaps, open graph. Make your websites rank higher in search results!" />
         <link rel="icon" href="/favicon.ico" />
         <meta name="og:title" content="Learn Search Engine Optimisation" />
         <meta name="og:description" content="Learn SEO - meta, sitemaps, open graph. Make your websites rank higher in search results!" />
