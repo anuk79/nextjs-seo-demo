@@ -18,27 +18,12 @@ export default function Home() {
         </h1>
 
         <div className={styles.grid}>
-          <Link href="https://developers.google.com/search/docs/beginner/seo-starter-guide" className={styles.card}>
+          <Link href="https://developers.google.com/search/docs/beginner/seo-starter-guide">
             What is SEO &rarr;
           </Link>
-
-          <Link href="/seo-types" className={styles.card}>
-            Types of SEO &rarr;
-          </Link>
-
-          <Link
-            href="/examples"
-            className={styles.card}
-          >
-            Examples &rarr;
-          </Link>
-
-          <Link
-            href="/slides-and-code"
-            className={styles.card}
-          >
-            Slides and Code
-          </Link>
+          <Link href="/seo-types">Types of SEO &rarr;</Link>
+          <Link href="/examples">Examples &rarr;</Link>
+          <Link href="/slides-and-code">Slides and Code</Link>
         </div>
       </main>
 
