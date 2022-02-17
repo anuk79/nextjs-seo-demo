@@ -5,6 +5,11 @@ import styles from '../styles/Home.module.css';
 export default function SEOTypes() {
   return (
     <div className={styles.container}>
+      <Head>
+        <title>Examples - Learn SEO</title>
+        <meta name="description" content="Checkout the examples of how to optimise your website for search engines" />
+      </Head>
+
       <main className={styles.main}>
         <h1 className={styles.title}>
           Search Engine Optimisation

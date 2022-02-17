@@ -5,6 +5,11 @@ import styles from '../styles/Home.module.css';
 export default function SEOTypes() {
   return (
     <div className={styles.container}>
+      <Head>
+        <title>Slides and Code - Learn SEO</title>
+        <meta name="description" content="Get access to the slides of this talk and the github repository with code examples." />
+      </Head>
+
       <main className={styles.main}>
         <h1 className={styles.title}>
           Search Engine Optimisation
@@ -13,7 +18,7 @@ export default function SEOTypes() {
         <section>
           <h2 className={styles.sectionTitle}>Slides and code</h2>
           <div className={styles.grid}>
-            <a href="/seo-types"
+            <a href="/"
               className={styles.card}
               target="_blank"
               rel="noopener noreferrer">
@@ -21,7 +26,7 @@ export default function SEOTypes() {
             </a>
 
             <a
-              href="/examples"
+              href="https://github.com/anuk79/nextjs-seo-demo"
               className={styles.card}
               target="_blank"
               rel="noopener noreferrer">

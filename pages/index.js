@@ -10,6 +10,11 @@ export default function Home() {
         <title>Learn SEO</title>
         <meta name="description" content="Learn SEO - meta, sitemaps, open graph!" />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="og:title" content="Learn Search Engine Optimisation" />
+        <meta name="og:description" content="Learn SEO - meta, sitemaps, open graph. Make your websites rank higher in search results@" />
+        <meta name="og:type" content="website" />
+        <meta name="og:image" content="https://learn-seo-next.vercel.app/learn-seo.png" />
+        <meta name="og:url" content="https://learn-seo-next.vercel.app/" />
       </Head>
 
       <main className={styles.main}>
@@ -23,7 +28,7 @@ export default function Home() {
           </Link>
           <Link href="/seo-types">Types of SEO &rarr;</Link>
           <Link href="/examples">Examples &rarr;</Link>
-          <Link href="/slides-and-code">Slides and Code</Link>
+          <Link href="/slides-and-code">Slides and Code &rarr;</Link>
         </div>
       </main>
 
