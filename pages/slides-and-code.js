@@ -18,7 +18,7 @@ export default function SEOTypes() {
         <section>
           <h2 className={styles.sectionTitle}>Slides and code</h2>
           <div className={styles.grid}>
-            <a href="/"
+            <a href="https://docs.google.com/presentation/d/1BrSleJ4ss0kel25D88X19CtGHupNDvF8xDxlyt-pIHA/edit?usp=sharing"
               className={styles.card}
               target="_blank"
               rel="noopener noreferrer">
