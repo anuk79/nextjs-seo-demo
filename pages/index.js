@@ -15,6 +15,8 @@ export default function Home() {
         <meta name="og:type" content="website" />
         <meta name="og:image" content="https://learn-seo-next.vercel.app/learn-seo.png" />
         <meta name="og:url" content="https://learn-seo-next.vercel.app/" />
+        <meta name="image" property="og:image" content="https://learn-seo-next.vercel.app/learn-seo.png" />
+        <meta name="twitter:card" content="summary_large_image" />
       </Head>
 
       <main className={styles.main}>
