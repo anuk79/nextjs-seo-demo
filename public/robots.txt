@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://learn-seo-next.vercel.app/
+
+# Sitemaps
+Sitemap: https://learn-seo-next.vercel.app/sitemap.xml
